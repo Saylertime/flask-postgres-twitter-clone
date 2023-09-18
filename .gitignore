@@ -1,0 +1,5 @@
+/.idea/
+pgdata/
+venv/
+flask_app/static/uploads/
+__pycache__/
